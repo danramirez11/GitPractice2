@@ -1,1 +1,3 @@
 Hola este es mi primer archivo en git 
+
+¡Hasta luego! Nos vemos pronto
